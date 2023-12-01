@@ -1,0 +1,101 @@
+{
+    "bot": {
+        "token": "OTcxMDMxNzk5NTg3Mjc0ODIz.GlrBd6.QOMDzSyF4NyqFDmowh13BDeUlOUhjVWg-o6lFc",
+        "owner": "924369071070404668",
+        "prefix": ".",
+        "BotStatus": "Asterya 💜 ZeGa",
+        "BotFooter": "Asterya 💜 ZeGa",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "1130023397422813244",
+            "log": "BAN LOG ID",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1130023397422813244",
+            "roles": "1128639256471019610",
+            "log": "1114201238821687296",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "1130023397422813244",
+            "log": "SES MUTE LOG ID",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1130023397422813244",
+            "roles": "SUSTURURULMUS ROLÜ ID",
+            "log": "MUTE LOG ID",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1130023397422813244",
+            "log": "WARN LOG ID"
+        },
+        "transport": {
+            "staff": "TAŞIYICI YETKİLİSİ ID"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "TAG LOG ID",
+        "rollog": "ROL LOG ID",
+        "messagelog": "MESAJ LOG ID",
+        "isimlog": "İSİM LOG ID",
+        "kayıtlog": "1117712665100423168",
+        "seslog": "SES LOG ID"
+    },
+    "roles": {
+		"booster": "BOOSTER ROL ID",
+        "vip": "VİP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
+    },
+    "channels": {
+        "chat": "1135443288426545202",
+        "voicechannel": "1136263728174739557",
+        "welcomechannel": "1117712665100423168",
+        "rules": "1102926497368510494"
+    },
+    "registration": {
+        "unregistered": "1117708500068479058",
+        "man": ["1100866428862738553", "1100866428862738553"],
+        "woman": ["1118079560517439508", "1118079560517439508"],
+        "yetkilialim": "YETKİLİ ALIM ROL ID",
+        "staff": "1118077421527253013",
+        "enaltyetkilirolü": "EN ALT YETKİLİ ROL ID",
+        "GuilDTag": "🜞",
+        "GuilDTag2": "",
+        "GuilDTag3": "",
+        "GuilDTag4": "",
+        "TagSymbol": " • ",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "ŞÜPHELİ ROL ID",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "1100866428862738553",
+        "onewoman": "1118079560517439508",
+        "GuildDiscrim": "",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1096852901177069628",
+        "GuilDName": "🜞 ~ Λ S T E R Y Λ",
+        "GuildOwnerRole": ["1096857016426844210"]
+    },
+    "emojis": {
+        "tada": "<a:kudur:1118464777342169128>",
+        "yes": "<a:onay:1118454469001220176>",
+        "no": "<a:red:1118454470934806599>"
+
+    }
+} 
